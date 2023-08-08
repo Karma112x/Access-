@@ -1,0 +1,10 @@
+/node_modules/
+.DS_Store
+*.swp
+*.pyc
+.vscode
+yarn.lock
+lib
+coverage/
+tsconfig.tsbuildinfo
+.tmp
